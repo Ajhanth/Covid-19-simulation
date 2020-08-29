@@ -36,6 +36,7 @@
 # The first sheet, "Data", shows the datas collected for affected and total number of affected for each day from 25.february - 31.july. 
 # The second sheet, "Data for juli", shows how my statistical model for august was constructed with the datas from july. 
 # In this case an exponential function was used as my statistical model, which can be seen in the sheet called "Data for juli".
+# Three different scenarios were considered; "Worst-case scenario", "Most likely scenario", and "Best-case scenario".
 # The third sheet, "Reelle verdier for august", shows the real values from the total number of people affected for each day from 1.-15. august based on Vg.no.
 #
 # Heading 2: 
@@ -47,7 +48,7 @@
 #
 # Heading 3: 
 #
-#
+# In the programming language R the total affected from the different scenarios and additionally the real values based on Vg were graphed as line diagram. 
 #
 #
 #*****************************************************************************************************************************************************************
