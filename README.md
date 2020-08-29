@@ -19,10 +19,11 @@
 # In this project I have predicted the total number of affected people due to Covid-19 pandemic day by day in the period of 1.-15.august through a statical model.
 # The prediction is based on the datas for affected according to VG.no for Covid-19. Through analysis of the datas three different scenarios were chosen. 
 # These scenarios are namely "Worst-case scenario", "Most likely scenario", and "Best-case scenario".
-# There are two files of Excel, where the first one includes the data collected,  
+# There are two Excel files, where the first one includes the data collected, analysis of july month, and the real values of total affected for august month.
+# The second file in Excel illustrates the Monte Carlo simulation based on the datas collected from july month.
 # A Monte Carlo simulation was done with the help of an exponential function in Excel through a tool called "Palisades @Risk".
-# Additionally, the three different scenarios were also predicted seperately in Excel.
-# A graphical visualisation of the different scenarios and the real values are shown in R. 
+# Additionally, the three different scenarios were also predicted seperately in the first Excel file.
+# A graphical visualisation of the different scenarios and the real values are shown in R with a line diagram.
 #
 #*****************************************************************************************************************************************************************
 #
