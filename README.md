@@ -12,7 +12,7 @@
 #   
 #   Copyright:  (c) / Ajhanth Yogachandran
 #   Author:     Ajhanth Yogachandran
-#   EMail:      Ajhanthy@hotmail.com
+#   Email:      Ajhanthy@hotmail.com
 
 #***************************************************************************************************************************************************************
 
