@@ -1,6 +1,6 @@
 # Covid-19-simulation
 
-#*************************************************************************
+#
 #
 #   Program:    Covid-19 simulation
 #   File:       Covid-19Simulation.xlsm
