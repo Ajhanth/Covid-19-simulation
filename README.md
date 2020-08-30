@@ -49,8 +49,8 @@
 # Heading 3: 
 #
 # In the programming language R the total affected from the different scenarios and additionally the real values according to Vg.no were graphed as line diagram. 
-# This graph shows how my scenarios are compared to the real values.
-# The different scenarios were constructed seperately with the help of three variables; "days", "Infection rate percent", "Total affected the day before the simulation".
+# This graph shows how my scenarios;"Worst-case scenario", "Most likely scenario", and "Best-case scenario" are compared to the real values.
+# These scenarios were constructed seperately with the help of three variables; "days", "Infection rate percent", "Total affected the day before the simulation".
 #
 #
 #
