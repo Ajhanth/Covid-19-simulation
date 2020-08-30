@@ -7,7 +7,7 @@
 #   
 #   Version:    1.3.959 © 2009-2020 RStudio, PBC
 #               Microsoft Office 365 ProPlus
-#   Date:       29.08.2020
+#   Date:       30.08.2020
 #   
 #   
 #   Copyright:  (c) / Ajhanth Yogachandran
@@ -48,18 +48,23 @@
 #
 # Heading 3: 
 #
-# In the programming language R the total affected from the different scenarios and additionally the real values based on Vg were graphed as line diagram. 
+# In the programming language R the total affected from the different scenarios and additionally the real values according to Vg.no were graphed as line diagram. 
+# This graph shows how my scenarios are compared to the real values.
+# The different scenarios were constructed seperately with the help of three variables; "days", "Infection rate percent", "Total affected the day before the simulation".
 #
 #
-#*****************************************************************************************************************************************************************
+#
+#
+#**************************************************************************************************************************************************************************
 #
 #   Usage:
 #   ======
-#   Aim of this project is to see whether this statistical model can be used in the future to avoid more affected and deaths.
+#  My aim for this project is to see whether this statistical model can be used in the future to predict the outcome in order to avoid more affected and deaths.
+#  With this model as a tool one can adjust the rules and regulations dependent of the development of Covid-19 pandemic.
 #
 #*****************************************************************************************************************************************************************
 #
 #   Revision History:
 #   =================
-#   V1.0   29.08.20  Original
+#   V1.0   30.08.20  Original
 #********************************************************************************************************************
